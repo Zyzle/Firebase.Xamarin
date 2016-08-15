@@ -72,6 +72,7 @@
     <Compile Include="Token\TokenGenerator.cs" />
     <Compile Include="Token\TokenOptions.cs" />
     <Compile Include="Auth\FirebaseAuthException.cs" />
+    <Compile Include="Storage\FirebaseStorage.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="System.Reactive.Core, Version=2.2.5.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
